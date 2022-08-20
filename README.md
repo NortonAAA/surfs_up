@@ -5,5 +5,5 @@ The purposed of this analysis is compare the temparatures between June and Decem
 ## Results
 From the data set pulled, the following subsets were pulled for December and June across all years and all stations. This data is summarized in the below charts:
 
-![June Temperatures in Hawaii](https://github.com/NortonAAA/surfs_up/blob/main/Resources/June_temps.png "June Temperatures in Hawaii") ![December Temperatures in Hawaii](https://github.com/NortonAAA/surfs_up/blob/main/Resources/December_temps.png "December Temperaturs in Hawaii")
+June Temperatures in Hawaii ![](https://github.com/NortonAAA/surfs_up/blob/main/Resources/June_temps.png) December Temperaturs in Hawaii ![](https://github.com/NortonAAA/surfs_up/blob/main/Resources/December_temps.png)
 ## Summary
