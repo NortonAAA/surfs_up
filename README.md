@@ -10,6 +10,7 @@ From the data set pulled, the following subsets were pulled for December and Jun
 ![](https://github.com/NortonAAA/surfs_up/blob/main/Resources/June_temps.png)
 
 **December Temperaturs in Hawaii**
+
 ![](https://github.com/NortonAAA/surfs_up/blob/main/Resources/December_temps.png)
 
 Looking at the statistics there are some key differences to highlight:
