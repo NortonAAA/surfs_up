@@ -12,3 +12,11 @@ Looking at the statistics there are some key differences to highlight:
 (2) The mean temperatures are not too far apart meaning that there is potential to stay open longer.
 (3) The highs are very similar, but there is defintely a lower 25% that is colder. December will have some days that are much colder to be open and would need to be monitored.
 ## Summary
+In summary there would still be a good opportunity in Hawaii year round to remain open with a few days expected to be lower.
+
+There are two more queries that were added for more context. This is was to pull percipitation for both months. Rain can certainly put a damper on the sales and surfing so we needed to review. Below are the results for precipitation for June and December.
+
+June Precipitation in Hawaii ![](https://github.com/NortonAAA/surfs_up/blob/main/Resources/June_prcp.png) December Precipitation in Hawaii ![](https://github.com/NortonAAA/surfs_up/blob/main/Resources/December_prcp.png)
+
+With this additional information, we can see that the max precipitation is actually pretty high in December with a great standard deviation. So our assumption is that there will still be good enough weather for month of the December to continue running the shop.
+
